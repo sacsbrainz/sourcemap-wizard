@@ -107,4 +107,4 @@ This folder contains the deobfuscated source code extracted from the minified bu
 }
 
 // Usage
-extractSourceCode('m.js', 'm.js.map');
+extractSourceCode('bundle.js', 'bundle.js.map');
