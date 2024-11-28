@@ -1,0 +1,19 @@
+# Development Environment
+.devenv*
+devenv.local.nix
+
+# Direnv
+.direnv
+
+# Pre-commit Configuration
+.pre-commit-config.yaml
+
+# Node Modules and Build Artifacts
+node_modules/
+starter/
+webpack/
+
+# JavaScript Files
+*.js
+!index.js
+*.js.*
